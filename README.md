@@ -18,5 +18,5 @@
 
 ### azury
 
-* [`azurydev/cachu`](https://github.com/azurydev/cachu)
-* [`azurydev/twemazing`](https://github.com/azurydev/twemazing)
+* [`azurystudio/cachu`](https://github.com/azurystudio/cachu)
+* [`azurystudio/twemazing`](https://github.com/azurystudio/twemazing)
